@@ -1,0 +1,14 @@
+{
+    "version": "0.10.1",
+    "description": "Fast, beautiful Markdown previewer for the terminal",
+    "homepage": "https://github.com/DipaolaFederico/kmd",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/DipaolaFederico/kmd/releases/download/v0.10.1/kmd-v0.10.1-windows-amd64.zip",
+            "hash": "3124c41c17520a9193ce6a15223a76c5cd0291e2a08426b679001d2ad15f7f71",
+            "extract_dir": "kmd-v0.10.1-windows-amd64"
+        }
+    },
+    "bin": "kmd.exe"
+}
